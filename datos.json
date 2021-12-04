@@ -14,6 +14,11 @@
       "id": 3,
       "nombre": "Bruce Banner",
       "nicname": "hulk"
+    },
+    {
+      "id": 4,
+      "nombre": "Dr strange",
+      "nicname": "Hechicero"
     }
   ],
   "peliculas": [
@@ -22,8 +27,8 @@
       "titulo": "soldado del invierno"
     },
     {
-      "id": 2,
-      "titulo": "el primer vengador"
+      "titulo": "power rangers",
+      "id": 2
     },
     {
       "id": 3,
