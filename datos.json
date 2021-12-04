@@ -1,0 +1,24 @@
+{
+  "vengadores": [
+    {
+      "id": 1,
+      "Nombre": "viudad negra",
+      "nicname": "natasha"
+    },
+    {
+      "id": 2,
+      "nombre": "stark",
+      "nicname": "iron man"
+    }
+  ],
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "soldado del invierno"
+    },
+    {
+      "id": 2,
+      "nombre": "el primer vengador"
+    }
+  ]
+}
