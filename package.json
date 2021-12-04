@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "servicio": "json-server --watch datos.json"
+    "servicio": "json-server --port 8087 --watch datos.json"
   },
   "keywords": [],
   "author": "",
