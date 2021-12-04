@@ -9,6 +9,11 @@
       "id": 2,
       "nombre": "stark",
       "nicname": "iron man"
+    },
+    {
+      "id": 3,
+      "nombre": "Bruce Banner",
+      "nicname": "hulk"
     }
   ],
   "peliculas": [
