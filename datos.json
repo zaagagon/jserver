@@ -24,6 +24,11 @@
       "id": 5,
       "nombre": "Halcon",
       "nicname": "falcon"
+    },
+    {
+      "id": 6,
+      "nombre": "vision",
+      "nicname": "travis"
     }
   ],
   "peliculas": [
