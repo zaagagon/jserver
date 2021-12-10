@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     
-    "servicio": "json-server --port 8084 --watch datos.json"
+    "servicio": "json-server --port 8086 --watch datos.json"
   },
   "keywords": [],
   "author": "",
