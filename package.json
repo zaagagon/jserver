@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    
     "servicio": "json-server --port 8084 --watch datos.json"
   },
   "keywords": [],

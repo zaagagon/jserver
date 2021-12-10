@@ -1,0 +1,2 @@
+-- npm run servicio
+--script create to package.json
