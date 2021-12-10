@@ -56,8 +56,8 @@
     },
     {
       "id": 4,
-      "nombre": "volviendo a casa",
-      "clasificacionid":1
+      "nombre": "volviendo a casa"
+     
     }
   ],
   "clasificacion":[
@@ -68,6 +68,11 @@
     {
       "id":2,
       "clasificacion":"aventura"
+
+    },
+    {
+      "id":3,
+      "clasificacion":"ficcion"
 
     }
   ]
