@@ -18,12 +18,16 @@
     {
       "id": 3,
       "nombre": "Bruce Banner",
-      "nicname": "hulk"
+      "nicname": "hulk",
+      "peliculaId":3,
+      "clasificacionId":3
     },
     {
       "id": 4,
       "nombre": "Dr strange",
-      "nicname": "Hechicero"
+      "nicname": "Hechicero",
+      "peliculaId":3,
+      "clasificacionId":3
     },
     {
       "id": 5,
