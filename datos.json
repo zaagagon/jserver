@@ -3,12 +3,17 @@
     {
       "id": 1,
       "Nombre": "viudad negra",
-      "nicname": "natasha"
+      "nicname": "natasha",
+      "peliculaId":"1",
+      "clasificacionId":1
     },
     {
       "id": 2,
       "nombre": "stark",
-      "nicname": "iron man"
+      "nicname": "iron man",
+      "clasificacionId":1,
+      "peliculaId":"1"
+
     },
     {
       "id": 3,
@@ -51,7 +56,19 @@
     },
     {
       "id": 4,
-      "nombre": "volviendo a casa"
+      "nombre": "volviendo a casa",
+      "clasificacionid":1
+    }
+  ],
+  "clasificacion":[
+    {
+      "id":1,
+      "clasificacion":"accion"
+    },
+    {
+      "id":2,
+      "clasificacion":"aventura"
+
     }
   ]
 }
